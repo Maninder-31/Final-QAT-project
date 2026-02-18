@@ -13,10 +13,14 @@ Login Module:
 - Valid login testing
 - Invalid login testing
 - URL and error message validation
+
+
 Products Module:
 - Add product to cart
 - Remove product from cart
 - Cart validation
+
+
 Checkout Module:
 - Add item to cart
 - Fill customer details
