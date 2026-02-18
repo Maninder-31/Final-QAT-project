@@ -7,6 +7,8 @@ The objective of this project is to automate the testing of the SauceDemo web ap
 Selenium WebDriver and TestNG framework. The project focuses on automating login, product
 management, and checkout functionalities to reduce manual effort and improve test reliability.
 2. Modules
+
+
 Login Module:
 - Valid login testing
 - Invalid login testing
